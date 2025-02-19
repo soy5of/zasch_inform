@@ -1,2 +1,5 @@
 # zasch_inform
-Tasks for Information defending.
+Tasks for Information protection.
+Тут лежат решения для двух задачек по Защите информации от Ведьманова И.С.
+1. Генератор простых случайных чисел на чистом си с использованием gmp;
+2. RSA-131072 на питоне.
